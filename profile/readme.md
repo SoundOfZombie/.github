@@ -23,7 +23,9 @@
 5. 음악 상자는 **3d 음향 효과**를 가지며, 위치에 따라 좌/우 소리가 다르게 들린다. 따라서 이를 통해 음악 상자의 위치를 파악할 수 있다.
 
 ### UI
-![](https://velog.velcdn.com/images/yeah7598/post/46551f50-94bb-4c63-a92c-e3cec22475a5/image.png)
+![image](https://user-images.githubusercontent.com/29669560/172469656-10dc2213-d548-462e-853c-4a711ae56865.png)
+
+![image](https://user-images.githubusercontent.com/29669560/172469315-258e7990-8643-42bf-b5cc-6cc4cf81c6b5.png)
 
 
 ### Tech Stack
