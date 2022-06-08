@@ -32,11 +32,3 @@
 
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white"/>
 <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white"/>
-
-### 팀원 소개
-팀원 | 역할 |
----- | ---- | 
-이서경<br>[skldd](https://github.com/skldd)| 
-|안서연<br>[sonoasy](https://github.com/sonoasy)| 
-|안예린<br>[yeah1832](https://github.com/yeah1832)| 
-|한소현<br>[sohyun329](https://github.com/sohyun329)| 
