@@ -1,6 +1,8 @@
 ### 사운드오브좀비
 ![](https://velog.velcdn.com/images/yeah7598/post/646f7dc9-d763-4fb9-8363-e658d4de5d0b/image.png)
 
+시연영상 : https://drive.google.com/file/d/1WFXqF4v4KqECEk8krwWV28ECihiRj-Ju/view?usp=sharing
+
 ### Intriduction
 
 제한 시간 안에 좀비를 피해 음악상자를 찾는 코믹 좀비 게임
